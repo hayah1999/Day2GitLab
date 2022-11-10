@@ -1,1 +1,1 @@
-![GIT logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lucas-uzan.fr%2Fcomment-creer-un-repository-git%2F&psig=AOvVaw3N97wzcnnwCE9TUfK_p9_l&ust=1668169334636000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjkjpbNo_sCFQAAAAAdAAAAABAE)
+![GIT logo](https://res.cloudinary.com/practicaldev/image/fetch/s--bjpVKHPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8ogqpfkvqqpyfbs3w6p7.png)
